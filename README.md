@@ -50,4 +50,4 @@ If needed a docker-compose file is available to build a local Airflow environmen
 ## Deliverable
 
 There is no expected format for deliverable you can either send files and report by email or store this in a github repository.
-In case of using a github repository, please grant Alexis Charrier (Github Id: [AlexisCharrier](https://github.com/AlexisCharrier)) access to this repo.
+In case of using a github repository, please grant Haris Pasic (Github Id: [HarisPasic](https://github.com/HarisPasic)) access to this repo.
